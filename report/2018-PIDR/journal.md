@@ -64,6 +64,23 @@
 - Next meeting: Tuesday November 6th, 10:00am
 
 
+### <2018-11-06> Meeting
+
+##### Things Done
+- Read the experiment description paper
+- Downloaded ztree suit and practiced with the tutorials
+
+##### Questions 
+- Multiple questions on the paper, concerning the implementation of the different metrics and the signification of few staistic terms.
+- How do access the github repository and push on it ?
+
+##### Thoughts and Discussions
+
+##### Work Planned 
+- Implement the combined reputation + trust score trust game
+- Keep the report up to date and grant access of the Mathias fork to Juliette
+- Next meeting: Tuesday November 20th, 10:00am
+
 
 
 ## Appendix: Templates
