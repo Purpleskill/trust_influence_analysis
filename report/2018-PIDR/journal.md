@@ -81,6 +81,23 @@
 - Keep the report up to date and grant access of the Mathias fork to Juliette
 - Next meeting: Tuesday November 20th, 10:00am
 
+### <2018-11-08> Coding 
+
+##### Things Done
+- Understanding of the overall program
+- Unfinished implementation of reputation computing and displaying
+
+##### Questions 
+- Is it possible to store the history of variables in an array ?
+- Bugs, period starts at 2
+
+##### Thoughts and Discussions
+- Discussions with Juliette on wether displaying reputation before the exchange or after, or both. Corrections of bug.
+
+
+##### Work Planned 
+- Finish the implementation
+
 
 
 ## Appendix: Templates
