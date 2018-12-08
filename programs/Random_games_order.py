@@ -42,6 +42,10 @@ with open('Games_orders.txt',"a") as fichier:
         print(toStr(a))
     else:
         print("Attention ! Le nombre maximum d'arrangements possible est atteint.")
+
+with open('Game_order.txt','w') as ztreeFile:
+    ztreeFile.write(toStr(a))
+
     
 
 
