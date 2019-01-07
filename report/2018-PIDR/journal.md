@@ -99,6 +99,39 @@
 - Finish the implementation
 
 
+### <2019-01-07> Coding 
+
+##### Things Done
+- Program testing in "real" condition, on a network
+- Implementation of random games order
+
+##### Questions 
+
+
+##### Thoughts and Discussions
+
+
+
+##### Work Planned 
+
+
+### <2018-11-25> Coding 
+
+##### Things Done
+- Bug fixes to have full execution of the program without errors
+- Corrections one the reputation calculation 
+
+##### Questions 
+
+
+##### Thoughts and Discussions
+
+
+
+##### Work Planned 
+- Handle more than one group
+- Implementation of sched.txt parsing.
+
 
 ## Appendix: Templates
 
