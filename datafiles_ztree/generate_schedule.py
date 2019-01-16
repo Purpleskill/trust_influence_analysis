@@ -75,7 +75,7 @@ for i in range (num_players):
 f = open (file_name, "w")
 
 # write first line
-f.write ("schedule\tPeriod\tSubject\tRank\n")
+f.write ("schedule\tPeriod\tSubject\tRank\r\n")
 
 for i in range (len (full_schedule)):
     for j in range (num_players):
@@ -84,7 +84,7 @@ for i in range (len (full_schedule)):
         # subject
         f.write (str (j + 1) + "\t")
         # rank
-        f.write (str(full_schedule[i][j] + 1) + "\n")
+        f.write (str(full_schedule[i][j] + 1) + "\r\n")
         # if not (j == num_players - 1 and i == len (full_schedule) - 1):
             # f.write ("\n")
 f.close ()
